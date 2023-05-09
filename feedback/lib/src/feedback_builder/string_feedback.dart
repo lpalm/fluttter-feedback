@@ -79,6 +79,9 @@ class _StringFeedbackState extends State<StringFeedback> {
                     onChanged: (_) {
                       //print(_);
                     },
+                    style: const TextStyle(
+                      color: Colors.white,
+                    ),
                   ),
                 ],
               ),
