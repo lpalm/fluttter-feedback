@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/feedback/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/feedback/test" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/feedback/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/feedback/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/feedback/build" />
+      <excludeFolder url="file://$MODULE_DIR$/feedback/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/feedback/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/feedback/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/feedback_gitlab/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/feedback_gitlab/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/feedback_gitlab/build" />
+      <excludeFolder url="file://$MODULE_DIR$/feedback_sentry/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/feedback_sentry/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/feedback_sentry/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
